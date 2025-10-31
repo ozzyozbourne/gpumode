@@ -1,0 +1,15 @@
+---
+.title = "Slides",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Osaid Khan",
+.layout = "slide.shtml",
+.alternatives = [{ 
+    .name = "rss",
+    .layout = "slide.xml", 
+    .output = "index.xml",
+}],
+.draft = false,
+--- 
+
+This page defines the slides section
+

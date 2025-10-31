@@ -18,16 +18,12 @@
 		<nav>
 			<a href="$site.page('').link()">Home</a>
 			&nbsp; • &nbsp;
-			<a href="$site.page('about').link()">About</a>
-			&nbsp; • &nbsp;
-			<a href="$site.page('blog').link()">Blog</a>
+			<a href="$site.page('slides').link()">Slides</a>
 		</nav>
 		<super>
 		<footer>
 			<hr>
-			<h5>SITE UNDER CONSTRUCTION</h5>
-			<img src="$site.asset('under-construction.gif').link()" width=90>
+			<h5>Powered by <a href="https://zine-ssg.io" target="_blank" rel="noopener">ZINE</a></h5>
 		</footer>
 	</body>
 </html>
-

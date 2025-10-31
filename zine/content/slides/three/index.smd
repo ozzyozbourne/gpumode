@@ -1,0 +1,9 @@
+---
+.title = "Three",
+.date = @date("2025-10-30T00:00:00"),
+.author = "Osaid khan",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+bring bang bang

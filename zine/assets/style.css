@@ -83,3 +83,12 @@ footer {
 footer hr {
   width: 100%;
 }
+
+.post img,
+figure img,
+img {
+  max-width: 100%;
+  height: auto !important;
+  display: block;
+  margin: 1em auto;
+}h1

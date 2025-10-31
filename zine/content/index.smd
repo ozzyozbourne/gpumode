@@ -66,8 +66,6 @@ HTML markup in Zine is defined via SuperHTML templates:
 changes you make will be picked up immediately, causing the website to rebuild
 and the page in your browser to refresh**.
 
-You can learn more about SuperMD and SuperHTML in [/about/](/about/).
-
 Lastly, this sample website also includes the following asset files:
 
 - `assets/style.css`
