@@ -18,6 +18,8 @@
 		<nav>
 			<a href="$site.page('').link()">Home</a>
 			&nbsp; • &nbsp;
+			<a href="$site.page('references').link()">References</a>
+			&nbsp; • &nbsp;
 			<a href="$site.page('slides').link()">Slides</a>
 		</nav>
 		<super>
