@@ -1,8 +1,11 @@
 name: Deploy the website to Github Pages
-
 on:
   push:
-    branches: ["master"]
+    branches:
+      - master
+    paths:
+      - "site"
+      - "site/**"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
