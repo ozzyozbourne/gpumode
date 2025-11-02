@@ -1,14 +1,80 @@
 ---
-.title = "Homepage",
+.title = "Intro to CUDA",
 .date = @date("1990-01-01T00:00:00"),
 .author = "Osaid Khan",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-## Intro to CUDA 
+
+## Reference 
+
+### Youtube
+
+1. [CPU vs GPU](https://www.youtube.com/watch?v=D8HS-H-MIe0)  
+2. [Fundamental of GPU Architecture](https://www.youtube.com/watch?v=4Pi424VJgcE)  
+3. [ZEN vs CUDA vs Tensor Cores](https://www.youtube.com/watch?v=uBtuMsAY7J8)  
+4. [GPU Noob](https://www.youtube.com/watch?v=OUzm06YaUsI)
+5. [GPU MODE] (https://www.youtube.com/@GPUMODE)
+
+### PDF
+
+1. [General Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
+2. [Nvida Blackwell Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
+3. [Nvida Ada Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/nvidia-ada-gpu-architecture.pdf)
+4. [Nvida Turing Architecture](https://images.nvidia.com/aem-dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
 
 
+### Sites 
+
+1. [Modal](https://modal.com/gpu-glossary)
+2. [Democratizing AI Compute](https://www.modular.com/democratizing-ai-compute)
+3. [MIT Accelerated Computing](https://accelerated-computing.academy/fall24/labs/)
+4. [Inside NVIDIA GPUs](https://www.aleksagordic.com/blog/matmul)
+5. [GPUs go brrr with Mojo](https://shubhamg.in/posts/2025-07-06-gpu-puzzles-p1.html)
 
 
+### Books 
+1. Programming Massively Parallel Processors 
+2. Art of Parallel Programming
+3. General Purpose Graphics Processor Architecture 
+
+### Others
+1. [Cuda Gpu Puzzles](https://github.com/srush/GPU-Puzzles)
+2. [Mojo Gpu Puzzles](https://github.com/modular/mojo-gpu-puzzles)
+1. [Cuda Samples](https://github.com/NVIDIA/cuda-samples)
+### Youtube
+
+1. [CPU vs GPU](https://www.youtube.com/watch?v=D8HS-H-MIe0)  
+2. [Fundamental of GPU Architecture](https://www.youtube.com/watch?v=4Pi424VJgcE)  
+3. [ZEN vs CUDA vs Tensor Cores](https://www.youtube.com/watch?v=uBtuMsAY7J8)  
+4. [GPU Noob](https://www.youtube.com/watch?v=OUzm06YaUsI)
+5. [GPU MODE] (https://www.youtube.com/@GPUMODE)
+
+### PDF
+
+1. [General Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
+2. [Nvida Blackwell Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
+3. [Nvida Ada Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/nvidia-ada-gpu-architecture.pdf)
+4. [Nvida Turing Architecture](https://images.nvidia.com/aem-dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
+
+
+### Sites 
+
+1. [Modal](https://modal.com/gpu-glossary)
+2. [Democratizing AI Compute](https://www.modular.com/democratizing-ai-compute)
+3. [MIT Accelerated Computing](https://accelerated-computing.academy/fall24/labs/)
+4. [Inside NVIDIA GPUs](https://www.aleksagordic.com/blog/matmul)
+5. [GPUs go brrr with Mojo](https://shubhamg.in/posts/2025-07-06-gpu-puzzles-p1.html)
+
+
+### Books 
+1. Programming Massively Parallel Processors 
+2. Art of Parallel Programming
+3. General Purpose Graphics Processor Architecture 
+
+### Others
+1. [Cuda Gpu Puzzles](https://github.com/srush/GPU-Puzzles)
+2. [Mojo Gpu Puzzles](https://github.com/modular/mojo-gpu-puzzles)
+1. [Cuda Samples](https://github.com/NVIDIA/cuda-samples)
 
