@@ -20,7 +20,6 @@
 			&nbsp; • &nbsp;
 			<a href="$site.page('references').link()">References</a>
 			&nbsp; • &nbsp;
-			<a href="$site.page('slides').link()">Slides</a>
 		</nav>
 		<super>
 		<footer>

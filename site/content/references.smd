@@ -10,8 +10,15 @@
 ### Youtube
 
 1. [CPU vs GPU](https://www.youtube.com/watch?v=D8HS-H-MIe0)  
-2. [Hugo](https://gohugo.io)  
-3. [Hugo](https://gohugo.io)  
+2. [Fundamental of GPU Architecture](https://www.youtube.com/watch?v=4Pi424VJgcE)  
+3. [ZEN vs CUDA vs Tensor Cores](https://www.youtube.com/watch?v=uBtuMsAY7J8)  
+
+### PDF
+
+1) [General Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
+2) [Nvida Blackwell Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
+3) [Nvida Ada Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/nvidia-ada-gpu-architecture.pdf)
+4) [Nvida Turing Architecture](https://images.nvidia.com/aem-dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
 
 
 
