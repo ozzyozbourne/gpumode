@@ -18,8 +18,6 @@
 		<nav>
 			<a href="$site.page('').link()">Home</a>
 			&nbsp; • &nbsp;
-			<a href="$site.page('references').link()">References</a>
-			&nbsp; • &nbsp;
 		</nav>
 		<super>
 		<footer>
