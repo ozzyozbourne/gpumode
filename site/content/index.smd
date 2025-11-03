@@ -6,7 +6,6 @@
 .draft = false,
 --- 
 
-
 ## References 
 
 ### Youtube
@@ -33,9 +32,9 @@
 7. [Tensor Core](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9)
 
 ### Books 
-1. Programming Massively Parallel Processors 
-2. Art of Parallel Programming
-3. General Purpose Graphics Processor Architecture 
+1. [Programming Massively Parallel Processors](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
+2. [Art of Parallel Programming](https://www.goodreads.com/book/show/6792512-the-art-of-parallel-programming)
+3. [General Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
 
 ### Others
 1. [Cuda Gpu Puzzles](https://github.com/srush/GPU-Puzzles)
