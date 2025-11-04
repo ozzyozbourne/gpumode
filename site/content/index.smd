@@ -8,15 +8,13 @@
 
 ## [SLIDE](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
 
-
-## Google Collab
-
 ### WorksSheets 
 1. [First Cuda Program with CUDA-GDB](https://colab.research.google.com/drive/1PtM1Jz87-Ht4RlSZMxFkzSiSacqJInz-?usp=sharing)
 2. [Ptx Demo 1](https://colab.research.google.com/drive/1RlhZzyJ-t63uXQhGEOte2Q4C_oiA-sS2?usp=sharing)
 3. [Ptx Demo 2](https://colab.research.google.com/drive/1sSBOQza_nEgMW3ZPJ9HBjv3aodKur790?usp=sharing)
 4. [PTX Demo 3 Julia](https://colab.research.google.com/drive/1TPtv5DjPVRPYsCHqSL6p6xr6Lp-47_ZR?usp=sharing)
 5. [Cuda Thread Block Example](https://colab.research.google.com/drive/1dXMtyFZcOuyFvdnTVycdr8fRdJIwt4mt?usp=sharing)
+6. [Memory Latency Hiding](https://colab.research.google.com/drive/1RIDLMwNzs76vSxR6KLW6IgNF5rhD7Ogm?usp=sharing)
 
 ## References 
 
@@ -79,5 +77,3 @@
 1. [Metal Docs](https://developer.apple.com/metal/sample-code/)
 2. [Metal Compute Shader](https://developer.apple.com/documentation/metal/performing-calculations-on-a-gpu)
 3. [Metal API Pytorch Kernel](https://developer.apple.com/documentation/metal/customizing-a-pytorch-operation)
-
-
