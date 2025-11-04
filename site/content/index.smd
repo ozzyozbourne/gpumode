@@ -6,34 +6,24 @@
 .draft = false,
 --- 
 
-[SLIDE](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
+## [SLIDE](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
 
 
 ## Google Collab
 1. [First Cuda Program with CUDA-GDB](https://colab.research.google.com/drive/1PtM1Jz87-Ht4RlSZMxFkzSiSacqJInz-?usp=sharing)
 
+### Cuda Alternatives 
+1. [Julia Cuda Example with PTX](https://colab.research.google.com/drive/1TPtv5DjPVRPYsCHqSL6p6xr6Lp-47_ZR?usp=sharing)
+2. [Triton Cuda Example](https://colab.research.google.com/drive/1mMXsFSJ7hP4QQqnAbKRq1Olt1ldxRfyB?usp=sharing)
+3. [JAX](https://colab.research.google.com/drive/1sx_EaC_KMOaNBJkqY5vWdFkwE4O1l8HH?usp=sharing)
+
+
 ## References 
-
-### WebGPU
-1. [Mdn Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
-2. [WebGPU](https://webgpu.github.io/webgpu-samples/)
-3. [WebGPU Compute Shader](https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html)
-
-### Vulkan
-1. [Vulkan](https://www.vulkan.org/)
-2. [Vulkan Computer Shader](https://vulkan-tutorial.com/Compute_Shader)
-
-### Apple Metal API
-1. [Metal Docs](https://developer.apple.com/metal/sample-code/)
-2. [Metal Compute Shader](https://developer.apple.com/documentation/metal/performing-calculations-on-a-gpu)
-3. [Metal API Pytorch Kernel](https://developer.apple.com/documentation/metal/customizing-a-pytorch-operation)
 
 ### Cuda Docs 
 1. [Cuda C++ Programing Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 2. [Cuda C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 3. [PTX](https://docs.nvidia.com/cuda/parallel-thread-execution/)
-
-### PTX
 
 ### Youtube
 1. [CPU vs GPU](https://www.youtube.com/watch?v=D8HS-H-MIe0)  
@@ -70,3 +60,23 @@
 3. [Cuda Samples](https://github.com/NVIDIA/cuda-samples)
 4. [Cuda Thread Hierarchy](https://harmanani.github.io/classes/csc447/Notes/Lecture15.pdf)
 5. [Cuda Training Series](https://www.olcf.ornl.gov/cuda-training-series/)
+6. [Modular GPU Fundamental](https://docs.modular.com/mojo/manual/gpu/fundamentals)
+7. [Julia CUDA](https://cuda.juliagpu.org/stable/)
+8. [Triton](https://openai.com/index/triton/)
+9. [JAX](https://github.com/jax-ml/jax)
+
+### WebGPU
+1. [Mdn Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
+2. [WebGPU](https://webgpu.github.io/webgpu-samples/)
+3. [WebGPU Compute Shader](https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html)
+
+### Vulkan
+1. [Vulkan](https://www.vulkan.org/)
+2. [Vulkan Computer Shader](https://vulkan-tutorial.com/Compute_Shader)
+
+### Apple Metal API
+1. [Metal Docs](https://developer.apple.com/metal/sample-code/)
+2. [Metal Compute Shader](https://developer.apple.com/documentation/metal/performing-calculations-on-a-gpu)
+3. [Metal API Pytorch Kernel](https://developer.apple.com/documentation/metal/customizing-a-pytorch-operation)
+
+
