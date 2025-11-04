@@ -10,13 +10,13 @@
 
 
 ## Google Collab
+
+### WorksSheets 
 1. [First Cuda Program with CUDA-GDB](https://colab.research.google.com/drive/1PtM1Jz87-Ht4RlSZMxFkzSiSacqJInz-?usp=sharing)
-
-### Cuda Alternatives 
-1. [Julia Cuda Example with PTX](https://colab.research.google.com/drive/1TPtv5DjPVRPYsCHqSL6p6xr6Lp-47_ZR?usp=sharing)
-2. [Triton Cuda Example](https://colab.research.google.com/drive/1mMXsFSJ7hP4QQqnAbKRq1Olt1ldxRfyB?usp=sharing)
-3. [JAX](https://colab.research.google.com/drive/1sx_EaC_KMOaNBJkqY5vWdFkwE4O1l8HH?usp=sharing)
-
+2. [Ptx Demo 1](https://colab.research.google.com/drive/1RlhZzyJ-t63uXQhGEOte2Q4C_oiA-sS2?usp=sharing)
+3. [Ptx Demo 2](https://colab.research.google.com/drive/1sSBOQza_nEgMW3ZPJ9HBjv3aodKur790?usp=sharing)
+4. [PTX Demo 3 Julia](https://colab.research.google.com/drive/1TPtv5DjPVRPYsCHqSL6p6xr6Lp-47_ZR?usp=sharing)
+5. [Cuda Thread Block Example](https://colab.research.google.com/drive/1dXMtyFZcOuyFvdnTVycdr8fRdJIwt4mt?usp=sharing)
 
 ## References 
 
@@ -64,6 +64,7 @@
 7. [Julia CUDA](https://cuda.juliagpu.org/stable/)
 8. [Triton](https://openai.com/index/triton/)
 9. [JAX](https://github.com/jax-ml/jax)
+10. [Compiler Explorer](https://godbolt.org/)
 
 ### WebGPU
 1. [Mdn Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
