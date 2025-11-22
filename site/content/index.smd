@@ -1,12 +1,12 @@
 ---
-.title = "Intro to CUDA",
+.title = "Introduction to CUDA",
 .date = @date("2025-11-02T00:00:00"),
 .author = "Osaid Khan",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-## [SLIDE](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
+#### [SLIDE](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
 
 #### Google Collab 
 1. [First Cuda Program with CUDA-GDB](https://colab.research.google.com/drive/1PtM1Jz87-Ht4RlSZMxFkzSiSacqJInz-?usp=sharing)
