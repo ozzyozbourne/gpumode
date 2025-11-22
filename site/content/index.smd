@@ -6,9 +6,9 @@
 .draft = false,
 --- 
 
-## [GOOGLE SLIDES](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
+## [SLIDE](https://docs.google.com/presentation/d/1XuPKhPA3hUHIK1te3tELW0Jl3nI_2oqvTWXoSn2-cQw/edit?usp=sharing)
 
-### WorksSheets 
+#### Google Collab 
 1. [First Cuda Program with CUDA-GDB](https://colab.research.google.com/drive/1PtM1Jz87-Ht4RlSZMxFkzSiSacqJInz-?usp=sharing)
 2. [Ptx Demo 1](https://colab.research.google.com/drive/1RlhZzyJ-t63uXQhGEOte2Q4C_oiA-sS2?usp=sharing)
 3. [Ptx Demo 2](https://colab.research.google.com/drive/1sSBOQza_nEgMW3ZPJ9HBjv3aodKur790?usp=sharing)
@@ -22,15 +22,15 @@
 11. [SIMD DIVERGENCE](https://colab.research.google.com/drive/1asInCeeGDcQV4q-3r9MbY9vb3NYfFlyH?usp=sharing)
 12. [SIMD FMA](https://colab.research.google.com/drive/1pIm8usKsaxae-NCsHdd4en9hYgkSqkus?usp=sharing)
 
-## References 
+### References 
 
-### Cuda Docs 
+#### Cuda Docs 
 1. [Cuda C++ Programing Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 2. [Cuda C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 3. [PTX](https://docs.nvidia.com/cuda/parallel-thread-execution/)
 4. [Nsight Computer CLI](https://docs.nvidia.com/nsight-compute/NsightComputeCli/index.html)
 
-### Youtube
+#### Youtube
 1. [CPU vs GPU](https://www.youtube.com/watch?v=D8HS-H-MIe0)  
 2. [Fundamental of GPU Architecture](https://www.youtube.com/watch?v=4Pi424VJgcE)  
 3. [ZEN vs CUDA vs Tensor Cores](https://www.youtube.com/watch?v=uBtuMsAY7J8)  
@@ -40,13 +40,13 @@
 7. [Cuda Memory Model](https://www.youtube.com/watch?v=OSpy-HoR0ac)
 8. [Modular Mojo Gpu Puzzles](https://www.youtube.com/watch?v=-VsP4kT6DjA)
 
-### PDF
+#### PDF
 1. [General Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
 2. [Nvida Blackwell Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
 3. [Nvida Ada Architecture](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/nvidia-ada-gpu-architecture.pdf)
 4. [Nvida Turing Architecture](https://images.nvidia.com/aem-dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
 
-### Sites & Blogs
+#### Sites & Blogs
 1. [Modal](https://modal.com/gpu-glossary)
 2. [Democratizing AI Compute](https://www.modular.com/democratizing-ai-compute)
 3. [MIT Accelerated Computing](https://accelerated-computing.academy/fall24/labs/)
@@ -55,12 +55,12 @@
 6. [Cuda Architecture](https://stevengong.co/notes/CUDA-Architecture)
 7. [Tensor Core](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9)
 
-### Books 
+#### Books 
 1. [Programming Massively Parallel Processors](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
 2. [Art of Parallel Programming](https://www.goodreads.com/book/show/6792512-the-art-of-parallel-programming)
 3. [General Purpose Graphics Processor Architecture](https://picture.iczhiku.com/resource/eetop/WHKdgQhRWGRojBxB.pdf)
 
-### Others
+#### Others
 1. [Cuda Gpu Puzzles](https://github.com/srush/GPU-Puzzles)
 2. [Mojo Gpu Puzzles](https://github.com/modular/mojo-gpu-puzzles)
 3. [Cuda Samples](https://github.com/NVIDIA/cuda-samples)
@@ -72,16 +72,16 @@
 9. [JAX](https://github.com/jax-ml/jax)
 10. [Compiler Explorer](https://godbolt.org/)
 
-### WebGPU
+#### WebGPU
 1. [Mdn Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 2. [WebGPU](https://webgpu.github.io/webgpu-samples/)
 3. [WebGPU Compute Shader](https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html)
 
-### Vulkan
+#### Vulkan
 1. [Vulkan](https://www.vulkan.org/)
 2. [Vulkan Computer Shader](https://vulkan-tutorial.com/Compute_Shader)
 
-### Apple Metal API
+#### Apple Metal API
 1. [Metal Docs](https://developer.apple.com/metal/sample-code/)
 2. [Metal Compute Shader](https://developer.apple.com/documentation/metal/performing-calculations-on-a-gpu)
 3. [Metal API Pytorch Kernel](https://developer.apple.com/documentation/metal/customizing-a-pytorch-operation)

@@ -1,5 +1,5 @@
 Site {
-    .title = "GPU-MODE",
+    .title = "Pace AI Lab",
     .host_url = "https://ozzyozbourne.github.io",
     .url_path_prefix = "gpumode",
     .content_dir_path = "content",
